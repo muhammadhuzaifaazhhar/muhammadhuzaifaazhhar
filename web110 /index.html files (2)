@@ -1,1 +1,12 @@
-
+<head>
+<meta charset="UTF-8">
+<title>Assignment 9 - Summary</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>Assignment 9 - Summary</h1>
+<p>
+Session 9 summary
+</p>CSS offers a diverse range of colors, including named colors like blue and black, as well as numeric representations such as RGB and HSL. This flexibility allows for a wide spectrum of color choices, enhancing design possibilities. Through exploration of these options, we transition from selecting predefined colors to mastering color mixing techniques, akin to a painter at work.
+</body>
+</html>
