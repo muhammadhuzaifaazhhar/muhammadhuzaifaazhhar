@@ -1,1 +1,10 @@
-
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  </body>
+  <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+</audio>
+  <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
